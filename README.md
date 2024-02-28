@@ -12,7 +12,6 @@
   <img align="center" alt="Kaled-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kaled-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Kaled-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"          src="https://media.discordapp.net/attachments/516766479178399744/953683714049724486/download20220303125354.png?width=540&height=540">
 </div>  
 
 ##
